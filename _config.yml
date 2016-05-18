@@ -50,9 +50,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-72320737-1
 
 # Google AdSense
 google_ad_client         :
@@ -74,9 +74,9 @@ defaults:
 # Site Author
 author:
   name             : "Eldar Rakhimberdiev"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  avatar           : "https://avatars3.githubusercontent.com/u/4114173?v=3&s=460"
+  bio              : "work towards quantitative ornithology"
+  location         : "Texel, NL"
   email            :
   uri              :
   bitbucket        :
@@ -85,7 +85,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "eldarrak"
   google_plus      :
   keybase          :
   instagram        :
