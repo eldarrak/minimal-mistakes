@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Limit migration to nocturnal or diurnal (FLightR)
 ---
 Sometimes we have strong biological assumption on migration, e.g. we know that our animal is a nocturnal migrant. There could be two approaches to work with such a tag:
