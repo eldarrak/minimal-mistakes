@@ -11,7 +11,7 @@ title                    : "Eldar's personal blog"
 title_separator          : "-"
 name                     : "Eldar Rakhimberdiev"
 description              : 
-url                      : "https://mmistakes.github.io"
+url                      : "https://eldarrak.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
