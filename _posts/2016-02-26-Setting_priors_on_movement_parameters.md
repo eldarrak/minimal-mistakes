@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Setting priors on movement parameters (FLightR)
 ---
 As any other Bayesian model FLightR uses priors on migration parameters. General rule for priors is that they should be selected wide enough to give data more freedom in affecting posteriors.
