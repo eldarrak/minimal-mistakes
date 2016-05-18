@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Cannot allocate vector of size XX Gb (FLightR)
 ---
 
