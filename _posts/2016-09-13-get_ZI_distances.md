@@ -3,6 +3,7 @@ title: New function in FLightR 0.4.2 to estimate distances moved between twiligh
 ---
 
 Try it out:
+
 ```{r}
 ZI_distances<-get_ZI_distances(Result) 
 ZI_distances
